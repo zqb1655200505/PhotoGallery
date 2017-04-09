@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoGallery</string>
+    <string name="image_url">image_url</string><!--图片url-->
+    <string name="border_top">border_top</string><!--图片顶部位置-->
+    <string name="border_bottom">border_bottom</string><!--图片底部位置-->
+    <string name="btn_gridView">GridView为容器</string>
+    <string name="btn_recyclerView">RecyclerView为容器</string>
+    <string name="btn_own_scrollView">自定义ScrollView为容器</string>
+</resources>

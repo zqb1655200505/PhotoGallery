@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--导航栏底色-->
+    <color name="colorPrimary1">@color/accent_material_dark</color>
+    <!--状态栏底色-->
+    <color name="colorPrimaryDark1">@color/accent_material_light</color>
+    <!--导航栏上的标题颜色-->
+    <color name="textColorPrimary">@android:color/black</color>
+    <!--Activity窗口的颜色-->
+    <color name="windowBackground">@color/material_blue_grey_800</color>
+    <!--按钮选中或者点击获得焦点后的颜色-->
+    <color name="colorAccent1">#00ff00</color>
+    <!--和 colorAccent相反，正常状态下按钮的颜色-->
+    <color name="colorControlNormal">#ff0000</color>
+    <!--Button按钮正常状态颜色-->
+    <color name="colorButtonNormal">@color/accent_material_light</color>
+    <!--EditText 输入框中字体的颜色-->
+    <color name="editTextColor">@android:color/white</color>
+
+
+    <!--glide设置tag需要-->
+    <item type="id" name="glide_tag" />
+
+</resources>

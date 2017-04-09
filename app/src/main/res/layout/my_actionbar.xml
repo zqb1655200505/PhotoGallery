@@ -1,0 +1,9 @@
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:id="@+id/myToolbar"
+    android:background="@color/colorPrimary1"
+
+    >
+</android.support.v7.widget.Toolbar>
