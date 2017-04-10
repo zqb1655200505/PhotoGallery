@@ -1,0 +1,5 @@
+# PhotoGallery
+图片展示及查看（缩放，照片墙）
+本项目提供android图片墙及使用viewpager实现照片左右切换查看功能，其中照片墙包括3种不同的展示（以GridView为容器，以RecyclerView为容器以及
+自定义scrollView为容器）。
+照片的加载依靠当前热门加载框架Glide。
