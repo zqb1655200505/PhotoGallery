@@ -12,7 +12,6 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
         <activity android:name=".activities.MyActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,7 +20,7 @@
             </intent-filter>
         </activity>
         <!-- 瀑布流效果 -->
-        <activity android:name=".activities.WaterfallFlowActivity"></activity>
+        <activity android:name=".activities.WaterfallFlowActivity" />
         <!-- GridView效果 -->
         <activity android:name=".activities.MainActivity" />
 
@@ -30,9 +29,8 @@
         <activity android:name=".activities.PicViewerActivity" />
 
         <!-- GridView效果 -->
-        <activity android:name=".activities.WaterfallFlowUseRecyclerViewActivity">
-        </activity>
-
+        <activity android:name=".activities.WaterfallFlowUseRecyclerViewActivity"></activity>
+        <activity android:name=".activities.ChooseLocalPic"></activity>
     </application>
 
 </manifest>

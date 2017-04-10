@@ -32,4 +32,11 @@
         android:id="@+id/btn_own_scrollView"
         android:layout_marginBottom="10dp"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_choose_local"
+        android:id="@+id/btn_choose_local"
+        android:layout_marginBottom="10dp"/>
+
 </LinearLayout>

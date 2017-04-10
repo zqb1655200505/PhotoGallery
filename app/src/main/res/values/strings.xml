@@ -6,4 +6,5 @@
     <string name="btn_gridView">GridView为容器</string>
     <string name="btn_recyclerView">RecyclerView为容器</string>
     <string name="btn_own_scrollView">自定义ScrollView为容器</string>
+    <string name="btn_choose_local">选择本地图片文件</string>
 </resources>
